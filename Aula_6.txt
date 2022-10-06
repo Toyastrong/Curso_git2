@@ -1,0 +1,16 @@
+  665  git tag
+  666  git tag -a v0.1 -m 'Ate a Aula 5'
+  667  git logpg
+  668  git checkout Main
+  669  git rebase feature
+  670  git status
+  671  git add new.file:
+  672  git add .
+  673  git add Aula_5.txt
+  674  git status
+  675  git commit -m "Aula_5.txt"
+  676  git status
+  677  git tag
+  678  git branch
+  679  git rebase feature
+  680  git logpg
