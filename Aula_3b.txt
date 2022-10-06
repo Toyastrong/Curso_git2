@@ -1,0 +1,16 @@
+  457  echo 'Latoya Armstrong' > participantes.txt
+  458  git status
+  459  git add .
+  460  git status
+  461  git restore --staged participante.txt
+  462  git status
+  463  git add participantes.txt
+  464  git status
+  465  git restore --staged .
+  466  git status
+  467  git commit -am 'alteracao no git'
+  468  git status
+  469  git add participantes.txt
+  470  git status
+  471  git commit -m 'adicionado participantes.txt'
+  472  git status
