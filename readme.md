@@ -1,2 +1,6 @@
-#Aprendendo isar o Git
+#Aprendendo usar o Git
+
+
 ##Aula 1
+
+O que foi que eu aprendi?
