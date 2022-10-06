@@ -1,0 +1,16 @@
+  624  git checkout master
+  625  git branch -d feature2
+  626  git checkout feature
+  627  git branch -d feature2
+  628  git log
+  629  clear
+  630  git checkout feature
+  631  clear
+  632  git log --pretty=oneline --graph
+  633  git merge Main
+  634  git log
+  635  git log --pretty=oneline --graph
+  636  git reset --hard HEAD~
+  637  git log --pretty=oneline --graph
+  638  git rebase Main
+  639  git log --pretty=oneline --graph
