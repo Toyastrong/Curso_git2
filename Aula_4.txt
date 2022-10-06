@@ -1,0 +1,16 @@
+  564  git status
+  565  echo '.vscode/'.gitgnore'\ngit status
+  566  git status
+  567  echo '.vscode/' > .gitignore
+  568  touch pessoal
+  569  ls .vscode
+  570  ls
+  571  ls -a
+  572  git status
+  573  echo '.vscode/'.gitignore'\ngit statud
+  574  git status
+  575  echo 'pessoal' >> .gitignore
+  576  git status
+  577  git add .gitignore
+  578  git commit -m 'adicionado arquivo .gitignore'
+  579  git status
